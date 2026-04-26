@@ -1,0 +1,11 @@
+# Built artifact
+caps.app/
+
+# Code-signing private key — DO NOT COMMIT
+.signing/
+
+# Local logs
+/tmp/caps.*
+
+# macOS
+.DS_Store
