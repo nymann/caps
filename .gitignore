@@ -1,5 +1,6 @@
 # Built artifact
 caps.app/
+build/
 
 # Code-signing private key — DO NOT COMMIT
 .signing/
